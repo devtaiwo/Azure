@@ -96,14 +96,14 @@
       "metadata": {
         "description": "Subnet for Trust"
       }
-    },
+    },/*
     "subnet3Name": {
       "type": "string",
       "defaultValue": "DMZ",
       "metadata": {
         "description": "Subnet for DMZ"
       }
-    },
+    },*/
     "subnet0Prefix": {
       "type": "string",
       "defaultValue": "192.168.0.0/24",
@@ -124,14 +124,14 @@
       "metadata": {
         "description": "Trust subnet CIDR"
       }
-    },
+    },/*
     "subnet3Prefix": {
       "type": "string",
       "defaultValue": "192.168.3.0/24",
       "metadata": {
         "description": "DMZ subnet CIDR"
       }
-    },
+    },*/
     "subnet0StartAddress": {
       "type": "string",
       "defaultValue": "192.168.0.4",
@@ -152,14 +152,14 @@
       "metadata": {
         "description": "Trust subnet start address"
       }
-    },
+    },/*
     "subnet3StartAddress": {
       "type": "string",
       "defaultValue": "192.168.3.4",
       "metadata": {
         "description": "DMZ subnet start address"
       }
-    },
+    },*/
     "adminUsername": {
       "type": "string",
       "metadata": {
